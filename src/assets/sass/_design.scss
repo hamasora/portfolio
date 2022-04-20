@@ -1,0 +1,32 @@
+/*
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+::before , ::after {
+	box-sizing: inherit;
+}
+*/
+
+
+/* 全体CSS */
+h1 {
+	text-shadow: 0 0 5px #666;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 48px;
+
+	@include display_pc {
+		font-size: 64px;
+	}
+}
+
+h2 {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 36px;
+	color: #3A75A0;
+
+	@include display_pc {
+		font-size: 42px;
+	}
+}
