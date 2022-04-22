@@ -8,7 +8,7 @@
 			>
 				<v-col cols="12" md="8" class="text-center">
 					<p>システム開発・HP作成等のご依頼を承っております。下記メールよりお気軽にご連絡ください。</p>
-					<a href="mailto:sora.hamasuna@sst-jp.net">sora.hamasuna@sst-jp.net</a>
+					<a href="mailto:sorasystem220405@gmail.com">sorasystem220405@gmail.com</a>
 					<p class="subtitle-2 mt-2">※日によっては返信が遅れる場合がございます。ご了承ください。</p>
 				</v-col>
 			</v-row>

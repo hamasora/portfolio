@@ -11,7 +11,7 @@ module.exports = {
         prependData: '@import "./src/assets/sass/common.scss";'
       }
     }
-  }
+  },
 }
 
 /*
